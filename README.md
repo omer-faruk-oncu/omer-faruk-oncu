@@ -60,7 +60,7 @@ Technical Skills
       <tr style="margin: auto;">
         <td><a href="https://nba-legends-oncuu.netlify.app">NBA Legends</a></td>
         <td>React - useState - useEffect - useRef</td>
-        <td><a href="#">Repo Link</a></td>
+        <td><img src="https://github.com/omer-faruk-oncu/nba-legends/assets/154313389/f88a65dc-ac8a-4478-a3f2-02ba23f4a9d9" alt="NBA" /> </td>
       </tr>
         <tr style="margin: auto;">
         <td><a href="https://omer-faruk-oncu.github.io/parallax/">Parallax</a></td>

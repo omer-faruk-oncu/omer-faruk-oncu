@@ -43,10 +43,10 @@ Technical Skills
     <td  align="center"><strong>Project Live Link</strong></td>
       <td  align="center">
         <strong
-          >Frameworks, Libraries And Technologies I Used To Make It</strong
+          >Frameworks, Libraries And Technologies</strong
         >
       </td>
-      <td  align="center""><strong>Github Repository Link</strong></td>
+      <td  align="center""><strong>Preview</strong></td>
    <tr>
         <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
         <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>

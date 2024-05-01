@@ -1,5 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1720051200&v=beta&t=slNiuCT8NxwfvCj9EGbnfMj2D_kl6Ay0boay17JhrdM" align="right" width="500" height="290"></br>
 
+</br>
 
 
 - 👋 Hi, I’m @omer-faruk-oncu

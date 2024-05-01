@@ -38,6 +38,67 @@ Technical Skills
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
+<table border="1"  align="center">
+        <h3 align="center">MY PROJECTS</h3>
+    <td  align="center"><strong>Project Live Link</strong></td>
+      <td  align="center">
+        <strong
+          >Frameworks, Libraries And Technologies I Used To Make It</strong
+        >
+      </td>
+      <td  align="center""><strong>Github Repository Link</strong></td>
+   <tr>
+        <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
+        <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
+        <td><a href="#">Repo Link</a></td>
+      </tr>
+         <tr>
+        <td><a href="https://product-list-akyarv0.netlify.app/">Product List App</a></td>
+        <td> React - useState - useEffect - useContext - axios - async/await </td>
+        <td><a href="https://github.com/akyarv0/product-list">Repo Link</a></td>
+      </tr>
+      <tr style="margin: auto;">
+        <td><a href="https://nba-legends-akyarv0.netlify.app/">NBA Legends</a></td>
+        <td>React - useState - useEffect - useRef</td>
+        <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
+      </tr>
+        <tr style="margin: auto;">
+        <td><a href="https://usecontext-akyarv0.netlify.app/">useContext Work Page</a></td>
+        <td>React - useState - useEffect - useRef</td>
+        <td><a href="https://github.com/akyarv0/context1">Repo Link</a></td>
+      </tr>
+       <tr style="margin: auto;">
+        <td><a href="https://ass4-rouge.vercel.app/">Random User With React</a></td>
+        <td>React - useState - useEffect - Axios - Async - Await </td>
+        <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
+      </tr>
+       <tr style="margin: auto;">
+        <td><a href="https://react-interview-akyarv0.netlify.app/">React Interview Question</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/react-ass3">Repo Link</a></td>
+      </tr>
+         <tr style="margin: auto;">
+        <td><a href="https://react-ass1-akyarv0.netlify.app">Lessons Schedule</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/react-ass-1">Repo Link</a></td>
+      </tr>
+        <tr style="margin: auto;">
+        <td><a href="https://react-ass-2.vercel.app/">Employee List</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/react-ass-2">Repo Link</a></td>
+      </tr>
+         <tr style="margin: auto;">
+        <td><a href="https://img-app-akyarv0.netlify.app/">Image Gallery</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/img-app">Repo Link</a></td>
+      </tr>
+           <tr style="margin: auto;">
+        <td><a href="https://router-nine-phi.vercel.app/">Portfolio Example</a></td>
+        <td>React-Router-SASS-SCSS-useState-useEffect </td>
+        <td><a href="https://github.com/akyarv0/router">Repo Link</a></td>
+      </tr>
+      </table>
+
 <!---
 omer-faruk-oncu/omer-faruk-oncu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

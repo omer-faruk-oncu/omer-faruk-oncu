@@ -50,7 +50,7 @@ Technical Skills
    <tr>
         <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
         <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
-        <td><a href="#">Repo Link</a></td>
+        <td><img src="https://github.com/omer-faruk-oncu/movie-app/assets/154313389/a58c27a7-038f-4e2f-8ac5-2759ea5e602f" alt="Movie App" /> </td>
       </tr>
          <tr>
         <td><a href="https://omer-faruk-oncu.github.io/product-list/">Product List App</a></td>

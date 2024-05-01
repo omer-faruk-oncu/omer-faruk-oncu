@@ -53,49 +53,29 @@ Technical Skills
         <td><a href="#">Repo Link</a></td>
       </tr>
          <tr>
-        <td><a href="https://product-list-akyarv0.netlify.app/">Product List App</a></td>
+        <td><a href="https://omer-faruk-oncu.github.io/product-list/">Product List App</a></td>
         <td> React - useState - useEffect - useContext - axios - async/await </td>
-        <td><a href="https://github.com/akyarv0/product-list">Repo Link</a></td>
+        <td><a href="#">Repo Link</a></td>
       </tr>
       <tr style="margin: auto;">
-        <td><a href="https://nba-legends-akyarv0.netlify.app/">NBA Legends</a></td>
+        <td><a href="https://nba-legends-oncuu.netlify.app">NBA Legends</a></td>
         <td>React - useState - useEffect - useRef</td>
-        <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
+        <td><a href="#">Repo Link</a></td>
       </tr>
         <tr style="margin: auto;">
-        <td><a href="https://usecontext-akyarv0.netlify.app/">useContext Work Page</a></td>
-        <td>React - useState - useEffect - useRef</td>
-        <td><a href="https://github.com/akyarv0/context1">Repo Link</a></td>
+        <td><a href="https://omer-faruk-oncu.github.io/parallax/">Parallax</a></td>
+        <td>Html - Css </td>
+        <td><a href="#">Repo Link</a></td>
       </tr>
        <tr style="margin: auto;">
-        <td><a href="https://ass4-rouge.vercel.app/">Random User With React</a></td>
-        <td>React - useState - useEffect - Axios - Async - Await </td>
-        <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
+        <td><a href="https://hospital-app-oncu.netlify.app">Hospital</a></td>
+        <td>React - React - (React-Bootstrap) - (React-dom) - (React-Icons) </td>
+        <td><a href="#">Repo Link</a></td>
       </tr>
        <tr style="margin: auto;">
-        <td><a href="https://react-interview-akyarv0.netlify.app/">React Interview Question</a></td>
-        <td>React - useState</td>
-        <td><a href="https://github.com/akyarv0/react-ass3">Repo Link</a></td>
-      </tr>
-         <tr style="margin: auto;">
-        <td><a href="https://react-ass1-akyarv0.netlify.app">Lessons Schedule</a></td>
-        <td>React - useState</td>
-        <td><a href="https://github.com/akyarv0/react-ass-1">Repo Link</a></td>
-      </tr>
-        <tr style="margin: auto;">
-        <td><a href="https://react-ass-2.vercel.app/">Employee List</a></td>
-        <td>React - useState</td>
-        <td><a href="https://github.com/akyarv0/react-ass-2">Repo Link</a></td>
-      </tr>
-         <tr style="margin: auto;">
-        <td><a href="https://img-app-akyarv0.netlify.app/">Image Gallery</a></td>
-        <td>React - useState</td>
-        <td><a href="https://github.com/akyarv0/img-app">Repo Link</a></td>
-      </tr>
-           <tr style="margin: auto;">
-        <td><a href="https://router-nine-phi.vercel.app/">Portfolio Example</a></td>
-        <td>React-Router-SASS-SCSS-useState-useEffect </td>
-        <td><a href="https://github.com/akyarv0/router">Repo Link</a></td>
+        <td><a href="https://checkout-page-oncu.netlify.app/">Checkout Page</a></td>
+        <td>React - (React-Bootstrap) - (React-dom) - (React-Icons) - Axios</td>
+        <td><a href="#">Repo Link</a></td>
       </tr>
       </table>
 

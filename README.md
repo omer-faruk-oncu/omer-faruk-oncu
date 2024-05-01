@@ -65,6 +65,13 @@
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
       alt="JIRA"
       />-->
+      
+
+  <img
+      src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="Tailwind CSS"
+    />
+
 </div>
 </br>
 

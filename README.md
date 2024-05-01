@@ -55,7 +55,7 @@ Technical Skills
          <tr>
         <td><a href="https://omer-faruk-oncu.github.io/product-list/">Product List App</a></td>
         <td> React - useState - useEffect - useContext - axios - async/await </td>
-        <td><a href="#">Repo Link</a></td>
+        <td><img src="https://github.com/omer-faruk-oncu/product-list/assets/154313389/8d6a052e-e2bb-4239-a07a-9757d94a6673" alt="Product List" /> </td>
       </tr>
       <tr style="margin: auto;">
         <td><a href="https://nba-legends-oncuu.netlify.app">NBA Legends</a></td>

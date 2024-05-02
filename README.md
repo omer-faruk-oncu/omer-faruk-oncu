@@ -6,7 +6,7 @@
 👋 Hi, I'm @omer-faruk-oncu
 </div>
 <div align="center">
-<span style="color: pink;">:heavy_check_mark: I'm a Web Developer.</span>
+<span style="color: pink;">:heavy_check_mark: I'm a Full Stack Developer.</span>
 </div>
 </br>
 

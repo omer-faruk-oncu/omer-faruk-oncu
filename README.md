@@ -75,7 +75,7 @@ Technical Skills
        <tr style="margin: auto;">
         <td><a href="https://stock-manager-oncu.netlify.app">Stock Manager</a></td>
         <td>React - (React-Bootstrap) - (React-dom) - (React-Icons) - Axios</td>
-        <td><a href="https://github.com/omer-faruk-oncu/stock-manager/assets/154313389/86ec12a0-5436-44ea-9d52-e6f718b3f5fe">Stock Manager</a></td>
+        <td><img src="https://github.com/omer-faruk-oncu/stock-manager/assets/154313389/86ec12a0-5436-44ea-9d52-e6f718b3f5fe" />Stock Manager</td>
       </tr>
       </table>
 

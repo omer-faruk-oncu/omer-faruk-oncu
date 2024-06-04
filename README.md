@@ -73,9 +73,9 @@ Technical Skills
         <td><img src="https://github.com/omer-faruk-oncu/hospital-app/assets/154313389/5d256072-9bdd-422b-b75b-878b8ad9df21" alt="Hospital" /> </td>
       </tr>
        <tr style="margin: auto;">
-        <td><a href="https://checkout-page-oncu.netlify.app/">Checkout Page</a></td>
+        <td><a href="https://stock-manager-oncu.netlify.app">Stock Manager</a></td>
         <td>React - (React-Bootstrap) - (React-dom) - (React-Icons) - Axios</td>
-        <td><a href="#">Repo Link</a></td>
+        <td><a href="![stock-maanger](https://github.com/omer-faruk-oncu/stock-manager/assets/154313389/86ec12a0-5436-44ea-9d52-e6f718b3f5fe)">Stock Manager</a></td>
       </tr>
       </table>
 

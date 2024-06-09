@@ -75,3 +75,6 @@
     <td><img src="https://github.com/omer-faruk-oncu/hospital-app/assets/154313389/5d256072-9bdd-422b-b75b-878b8ad9df21" alt="Hospital" /></td>
   </tr>
 </table>
+
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omer-faruk-oncu&show_icons=true&theme=tokyonight)
+

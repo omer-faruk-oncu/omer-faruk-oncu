@@ -12,12 +12,6 @@
 [![Gmail: farukoncu78](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:farukoncu78@gmail.com)
 [![Medium: farukoncu78](https://img.shields.io/badge/medium-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@farukoncu78)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/omer-faruk-oncu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:farukoncu78@gmail.com"><img src="https://img.shields.io/badge/Email-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="https://medium.com/@farukoncu78"><img src="https://img.shields.io/badge/Medium-black?&style=for-the-badge&logo=medium&logoColor=white"></a>
-</div>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omer-faruk-oncu" alt="profile views">
 </p>

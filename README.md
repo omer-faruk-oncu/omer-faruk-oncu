@@ -72,11 +72,6 @@ Technical Skills
         <td>React - useState - useEffect</td>
         <td><img src="https://github.com/omer-faruk-oncu/nba-legends/assets/154313389/f88a65dc-ac8a-4478-a3f2-02ba23f4a9d9" alt="NBA" /> </td>
       </tr>
-        <tr style="margin: auto;">
-        <td><a href="https://clarus-store-oncu.netlify.app">Clarus Store</a></td>
-        <td>Axios - react - (react-router)- Tailwind </td>
-        <td><img src="https://github.com/omer-faruk-oncu/clarus-store/assets/154313389/b6bb6b18-86f9-4846-80bd-0b74a3f5ecd5" alt="Clarus store" /> </td>
-      </tr>
        <tr style="margin: auto;">
         <td><a href="https://hospital-app-oncu.netlify.app">Hospital</a></td>
         <td>React - React - (React-Bootstrap) - (React-dom) - (React-Icons) </td>

@@ -47,7 +47,12 @@ Technical Skills
         >
       </td>
       <td  align="center""><strong>Preview</strong></td>
-   <tr>
+     <tr>
+        <td><a href="https://my-blog-oncu.netlify.app">My-Blog</a></td>
+        <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Redux</td>
+        <td><img src="https://github.com/omer-faruk-oncu/my-blog-redux/assets/154313389/260fd48d-9049-4342-97bf-aad95bcd3d07" alt="My-Blog" /> </td>
+      </tr>
+       <tr>
         <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
         <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
         <td><img src="https://github.com/omer-faruk-oncu/movie-app/assets/154313389/a58c27a7-038f-4e2f-8ac5-2759ea5e602f" alt="Movie App" /> </td>

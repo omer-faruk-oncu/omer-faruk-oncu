@@ -1,3 +1,4 @@
+<!---
 <div align="center">
   <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1720051200&v=beta&t=slNiuCT8NxwfvCj9EGbnfMj2D_kl6Ay0boay17JhrdM" width="500" height="290">
 </div>
@@ -80,7 +81,7 @@ Technical Skills
         <td><img src="https://github.com/omer-faruk-oncu/hospital-app/assets/154313389/5d256072-9bdd-422b-b75b-878b8ad9df21" alt="Hospital" /> </td>
       </tr>
       </table>
-
+--->
 <!---
 omer-faruk-oncu/omer-faruk-oncu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

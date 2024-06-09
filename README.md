@@ -7,6 +7,9 @@
   👋 Hi, I'm @omer-faruk-oncu
 </div>
 <div align="center">
+  👋 Hi, I'm Ömer Faruk Öncü, a passionate Full Stack Developer. I love building applications that solve real-world problems and learning new technologies. Welcome to my GitHub profile!
+</div>
+<div align="center">
   <span style="color: pink;">✅ I'm a Full Stack Developer.</span>
 </div>
 </br>

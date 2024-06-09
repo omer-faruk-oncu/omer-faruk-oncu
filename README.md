@@ -76,8 +76,7 @@
   </tr>
 </table>
 
-<div align="center">
   ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omer-faruk-oncu&show_icons=true&theme=tokyonight)
-</div>
+
 
 

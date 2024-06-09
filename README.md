@@ -52,6 +52,11 @@ Technical Skills
         <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Redux</td>
         <td><img src="https://github.com/omer-faruk-oncu/my-blog-redux/assets/154313389/260fd48d-9049-4342-97bf-aad95bcd3d07" alt="My-Blog" /> </td>
       </tr>
+      <tr style="margin: auto;">
+        <td><a href="https://stock-manager-oncu.netlify.app">Stock Manager</a></td>
+        <td>React - (React-Bootstrap) - (React-dom) - (React-Icons) - Axios</td>
+        <td><img src="https://github.com/omer-faruk-oncu/stock-manager/assets/154313389/86ec12a0-5436-44ea-9d52-e6f718b3f5fe" />Stock Manager</td>
+      </tr>
        <tr>
         <td><a href="https://movie-app-oncu.netlify.app">Movie App</a></td>
         <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
@@ -76,11 +81,6 @@ Technical Skills
         <td><a href="https://hospital-app-oncu.netlify.app">Hospital</a></td>
         <td>React - React - (React-Bootstrap) - (React-dom) - (React-Icons) </td>
         <td><img src="https://github.com/omer-faruk-oncu/hospital-app/assets/154313389/5d256072-9bdd-422b-b75b-878b8ad9df21" alt="Hospital" /> </td>
-      </tr>
-       <tr style="margin: auto;">
-        <td><a href="https://stock-manager-oncu.netlify.app">Stock Manager</a></td>
-        <td>React - (React-Bootstrap) - (React-dom) - (React-Icons) - Axios</td>
-        <td><img src="https://github.com/omer-faruk-oncu/stock-manager/assets/154313389/86ec12a0-5436-44ea-9d52-e6f718b3f5fe" />Stock Manager</td>
       </tr>
       </table>
 

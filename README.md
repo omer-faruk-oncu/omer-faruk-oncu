@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1720051200&v=beta&t=slNiuCT8NxwfvCj9EGbnfMj2D_kl6Ay0boay17JhrdM" width="500" height="290">
+  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" width="500" height="290">
 </div>
 </br>
 <div align="center">

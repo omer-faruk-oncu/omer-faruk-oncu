@@ -79,6 +79,12 @@
     <td>React, React-Bootstrap, React-dom, React-Icons</td>
     <td><img src="https://github.com/omer-faruk-oncu/hospital-app/assets/154313389/5d256072-9bdd-422b-b75b-878b8ad9df21" alt="Hospital" /></td>
   </tr>
+    <tr>
+    <td><a href="https://movie-stars-oncu.netlify.app/">Movie Stars</a></td>
+    <td>React, React-Bootstrap, React-dom</td>
+    <td><img src="https://github.com/user-attachments/assets/e89566db-d0f9-4410-bcd6-b006e440cf2c" alt="Movie Stars" /></td>
+  </tr>
+  
 </table>
 
   ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omer-faruk-oncu&show_icons=true&theme=tokyonight)
